@@ -12,6 +12,7 @@ public class testaporta {
         c1.pinta("branco");
         c1.cor="preto";
         System.out.println(c1.cor);
+	//alteradodo github-----
 	}
 
 }
