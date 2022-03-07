@@ -13,6 +13,8 @@ public class testaporta {
         c1.cor="preto";
         System.out.println(c1.cor);
 	//alteradodo github-----
+      //alteradodo github-----
+      //alteradodo github-----
 	}
 
 }
