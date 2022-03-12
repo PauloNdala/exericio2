@@ -6,17 +6,17 @@ public class Porta {
 	/*Criando Metodos */
 	String aux =this.cor;
     
-	void abre() {
+	void getAbre() {
 		System.out.println("Abrir Porta !");
 		System.out.println("Abrir Porta !");
 	}
-	void fecha() {
+	void getFecha() {
 		System.out.println("Fechar Porta!");
 	}
     void pinta(String s) {
     	  System.out.println("Pintura da Porta Cor:" +s);
     }
-    boolean estaAberta() {
+    boolean isEstaAberta() {
     	if(this.aberta=="aberta") {
     		return true;
     	}else {
