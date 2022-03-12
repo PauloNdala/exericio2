@@ -8,6 +8,7 @@ public class Porta {
     
 	void abre() {
 		System.out.println("Abrir Porta !");
+		System.out.println("Abrir Porta !");
 	}
 	void fecha() {
 		System.out.println("Fechar Porta!");
